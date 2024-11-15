@@ -30,8 +30,6 @@ _¡Explora proyectos en mis [repositorios](https://github.com/raulperezhinojal)!
 
 ---
 
-¡Claro! Aquí tienes solo la sección de "Conecta conmigo" del `README.md`:
-
 ---
 
 ## 🌐 Conecta conmigo  
