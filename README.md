@@ -20,7 +20,7 @@
 
 ## 🌟 Habilidades  
 
-- **Lenguajes:** [Lista de lenguajes, e.g., Java, HTML, CSS ,]  
+- **Lenguajes:** [Lista de lenguajes, e.g., Java, HTML, CSS , SQL]  
 - **Frameworks y Librerías:** [Lista, e.g., Spring, React, Django]  
 - **Herramientas:** [VS CODE , INTELLIJ IDEA]  
 
