@@ -39,11 +39,18 @@ _¡Explora más proyectos en mis [repositorios](https://github.com/tu-usuario)!_
 
 ---
 
-🌐 Conecta conmigo
-💼 LinkedIn
-🌐 Tu página web o portafolio
-📫 Email: tu-correo@ejemplo.com
+¡Claro! Aquí tienes solo la sección de "Conecta conmigo" del `README.md`:
 
+---
+
+## 🌐 Conecta conmigo  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/raulperezhinojal)  
+- 📫 **Email:** [perezhinojal@gmail.com](mailto:tu-correo@ejemplo.com)  
+
+--- 
+
+Si necesitas agregar algo más, házmelo saber. 😊
 ---
 
 ## 🎯 Objetivos  
