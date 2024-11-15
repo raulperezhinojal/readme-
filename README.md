@@ -39,11 +39,10 @@ _¡Explora más proyectos en mis [repositorios](https://github.com/tu-usuario)!_
 
 ---
 
-## 🌐 Conecta conmigo  
-
-- 💼 LinkedIn
-- 🌐 [Tu página web o portafolio](https://tu-pagina.com)  
-- 📫 **Email:** [perezhinojal@gmail.com]  
+🌐 Conecta conmigo
+💼 LinkedIn
+🌐 Tu página web o portafolio
+📫 Email: tu-correo@ejemplo.com
 
 ---
 
