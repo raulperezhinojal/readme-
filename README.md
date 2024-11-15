@@ -25,17 +25,9 @@
 - **Frameworks y Librerías:** [Lista, e.g., Spring, React, Django]  
 - **Herramientas:** [VS CODE , INTELLIJ IDEA]  
 
----
+--
 
-## 📚 Proyectos Destacados  
-
-1. **[Nombre del Proyecto](enlace-proyecto)**  
-   _Descripción breve del proyecto y las tecnologías usadas._  
-
-2. **[Nombre del Proyecto](enlace-proyecto)**  
-   _Otra descripción breve._  
-
-_¡Explora más proyectos en mis [repositorios](https://github.com/tu-usuario)!_  
+_¡Explora proyectos en mis [repositorios](https://github.com/raulperezhinojal)!_  
 
 ---
 
@@ -50,14 +42,11 @@ _¡Explora más proyectos en mis [repositorios](https://github.com/tu-usuario)!_
 
 --- 
 
-Si necesitas agregar algo más, házmelo saber. 😊
 ---
 
 ## 🎯 Objetivos  
 
-- Aprender y dominar [tu meta actual].  
-- Contribuir activamente en proyectos de código abierto.  
-- Seguir creciendo como profesional y compartir conocimientos con la comunidad.  
+- Aprender y dominar [El Desarrollo de Aplicacione Web].  
 
 ---
 
