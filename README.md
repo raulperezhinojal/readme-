@@ -4,8 +4,7 @@
 
 # 👋 ¡Hola! Soy [Raul Pérez Hinojal]  
 
-✨ **Desarrollador | Entusiasta de la tecnología | Aprendiz constante** ✨  
-
+✨ ** Desarrollador de Aplicaciones Web junior | Entusiasta de la tecnología | Aprendiz constante** ✨  
 ---
 
 ## 📌 Acerca de mí  
