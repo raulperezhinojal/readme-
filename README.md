@@ -41,7 +41,7 @@ _¡Explora más proyectos en mis [repositorios](https://github.com/tu-usuario)!_
 
 ## 🌐 Conecta conmigo  
 
-- 💼 [LinkedIn](www.linkedin.com/in/raúl-perez-hinojal-676617243)  
+- 💼 LinkedIn
 - 🌐 [Tu página web o portafolio](https://tu-pagina.com)  
 - 📫 **Email:** [perezhinojal@gmail.com]  
 
