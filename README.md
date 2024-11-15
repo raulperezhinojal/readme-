@@ -1,4 +1,4 @@
-¡Entendido! Aquí tienes un ejemplo para un `README.md` personal, ideal para tu perfil de GitHub.  
+
 
 ---
 
