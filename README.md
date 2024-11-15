@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 ¡Hola! Soy [Tu Nombre/Usuario]  
+# 👋 ¡Hola! Soy [Raul Pérez Hinojal]  
 
 ✨ **Desarrollador | Entusiasta de la tecnología | Aprendiz constante** ✨  
 
@@ -10,20 +10,20 @@
 
 ## 📌 Acerca de mí  
 
-¡Hola! Soy un apasionado/a por el desarrollo de software y la tecnología. Me encanta resolver problemas, aprender nuevas habilidades y colaborar en proyectos que marcan la diferencia.  
+¡Hola! Soy un apasionado/a por el desarrollo de paginas web. Me encanta resolver problemas, aprender nuevas habilidades y colaborar en proyectos que marcan la diferencia.  
 
-- 🎓 **Experiencia/Lenguaje Principal:** [Tu lenguaje principal o campo, e.g., Java Developer, Pythonista]  
-- 💻 **Actualmente aprendiendo:** [Lo que estás aprendiendo ahora, e.g., Java, frameworks, tecnologías específicas]  
+- 🎓 **Experiencia/Lenguaje Principal:** [HTMl,CSS,JAVA]  
+- 💻 **Actualmente aprendiendo:** [Java,HTML,CSS]  
 - 🛠️ **Hobbies técnicos:** Crear proyectos propios, colaborar en código abierto y explorar tecnologías emergentes.  
-- 🚀 **Fuera del código:** Me gusta [tu actividad personal, e.g., leer, viajar, cocinar, jugar videojuegos].  
+- 🚀 **Fuera del código:** Me gusta [Jugar a futbol,jugar videojuegos].  
 
 ---
 
 ## 🌟 Habilidades  
 
-- **Lenguajes:** [Lista de lenguajes, e.g., Java, Python, JavaScript]  
+- **Lenguajes:** [Lista de lenguajes, e.g., Java, HTML, CSS ,]  
 - **Frameworks y Librerías:** [Lista, e.g., Spring, React, Django]  
-- **Herramientas:** [Herramientas técnicas, e.g., Git, Docker, VS Code]  
+- **Herramientas:** [VS CODE , INTELLIJ IDEA]  
 
 ---
 
@@ -41,9 +41,9 @@ _¡Explora más proyectos en mis [repositorios](https://github.com/tu-usuario)!_
 
 ## 🌐 Conecta conmigo  
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu-nombre)  
+- 💼 [LinkedIn](www.linkedin.com/in/raúl-perez-hinojal-676617243)  
 - 🌐 [Tu página web o portafolio](https://tu-pagina.com)  
-- 📫 **Email:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)  
+- 📫 **Email:** [perezhinojal@gmail.com(mailto:perezhinojal@gmail.com)  
 
 ---
 
