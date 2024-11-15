@@ -30,14 +30,14 @@ _¡Explora proyectos en mis [repositorios](https://github.com/raulperezhinojal)!
 
 ---
 
----
+
 
 ## 🌐 Conecta conmigo  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raulperezhinojal)  
 - 📫 **Email:** [perezhinojal@gmail.com](mailto:tu-correo@ejemplo.com)  
 
---- 
+
 
 ---
 
