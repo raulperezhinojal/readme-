@@ -12,7 +12,7 @@
 ¡Hola! Soy un apasionado/a por el desarrollo de paginas web. Me encanta resolver problemas, aprender nuevas habilidades y colaborar en proyectos que marcan la diferencia.  
 
 - 🎓 **Experiencia/Lenguaje Principal:** [HTMl,CSS,JAVA]  
-- 💻 **Actualmente aprendiendo:** [Java,HTML,CSS]  
+- 💻 **Actualmente aprendiendo:** [Java,HTML,CSS,SQL]  
 - 🛠️ **Hobbies técnicos:** Crear proyectos propios, colaborar en código abierto y explorar tecnologías emergentes.  
 - 🚀 **Fuera del código:** Me gusta [Jugar a futbol,jugar videojuegos].  
 
